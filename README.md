@@ -44,8 +44,12 @@ Fonctionnalités
 *Sauf à partir de YubiKey NEO
 
 Installation
+
 Démarrer DiscordTokenProtectorSetup.exe
+
 Choisissez entre l’installation normale et l’installation sans démarrage
+
+Configurez-le
 
 Qu’est-ce que ça fait ?
 
