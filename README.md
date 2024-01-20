@@ -26,13 +26,21 @@ Les chances d’être résilié en utilisant DTP sont très faibles, mais gardez
 Fonctionnalités
 
 ✅ Protégez-vous de la plupart des accapareurs de jetons
+
 ✅ Stockez en toute sécurité votre jeton Discord dans un fichier crypté (les YubiKeys* sont prises en charge)
+
 ✅ Passez facilement d’un compte à l’autre
+
 ✅ Changez votre mot de passe Discord en un clic
+
 ✅ Vérifiez l’intégrité de votre installation Discord au lancement (BetterDiscord est pris en charge)
+
 ✅ Vérifier les scripts pour les logiciels malveillants connus (par exemple AnarchyGrabber3)
+
 ✅ Protéger le processus Discord de la lecture de mémoire / injection de code
+
 ✅ Protéger la PAO contre les attaques de falsification (protège le processus/la configuration contre les utilisateurs non autorisés)
+
 *Sauf à partir de YubiKey NEO
 
 Installation
